@@ -2,7 +2,7 @@
 <html lang="ru">
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-//- index.pug
+ //- index.pug
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-24DD2C4HEV"></script>
