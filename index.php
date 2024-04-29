@@ -1943,7 +1943,7 @@ $(function(){
    });
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/48722531/1" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+
 </body>
 
 
